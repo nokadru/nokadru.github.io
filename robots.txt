@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nokadru.github.io/sitemap/sitemap.txt
